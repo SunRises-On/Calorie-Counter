@@ -1,0 +1,23 @@
+*{    
+    margin: 0;
+    padding: 0;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black; 
+    height: 8%;
+
+    
+}
+
+body{
+    font-family: Arial;
+    display: flex;
+    align-items:center;
+    
+} 
+
+.h1{
+    color:rgb(121,125,127);
+    align-items: flex-end;
+    margin-left: 20%;
+}
